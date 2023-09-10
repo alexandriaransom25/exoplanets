@@ -1,5 +1,4 @@
 # Exoplanets
 ## By: Alexandria Ransom 
 ### Sept. 9, 2023
-[exoplanets](https://media.giphy.com/media/WO6wiZtUwhRVH6LSEK/giphy.gif](https://media.giphy.com/media/uUFJNtgRUL5NC/giphy.gif)https://media.giphy.com/media/uUFJNtgRUL5NC/giphy.gif)
-
+![giphy](https://github.com/alexandriaransom25/exoplanets/assets/118854179/1011cf2f-922a-47a3-b7f3-92fa8da6f896)
