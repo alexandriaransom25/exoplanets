@@ -5,4 +5,9 @@
 
 Main Objective | I will be using machine learning to find exoplanets with NASA's data.  My goal is to create a machine learning model that can predict if an observation is a real candidate for an exoplanets or not. 
 
-Data Background | The data was collected by the Kepler Mission... Kepler was able to find planets by observing dips in the brightness of stars when a planet transit is in front of it.
+A long term goal is to turn this project into a button that users can click where the button showcases whether the planet is an exoplanet candidate or not. The target column I'm trying predict is k_dispoisiton with 3 distinct categories Candidate, False Positive, Confirmed.
+
+Data Background | The data was collected by the Kepler Mission posted by NASA ... Kepler was able to find planets by observing dips in the brightness of stars when a planet transit is in front of it.
+It contains a csv of 9,564 objects of interest with 50 associated columns of features. 
+
+
